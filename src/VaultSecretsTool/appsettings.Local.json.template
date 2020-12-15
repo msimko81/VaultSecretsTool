@@ -1,0 +1,10 @@
+﻿{
+  "Environment": "Development/Staging/Production",
+  "HcVault": {
+    "Credentials": {
+      "Username": "ldap_username",
+      "Password": "password"
+    }
+  },
+  "SecretsLocalFilePath": "C:\\full\\path\\secrets.json"
+}
