@@ -23,7 +23,7 @@ This object is internally mapped to a <i>Dictionary<string,string></i> to ensure
 ## Configuration
 
 Application is configured using global [appsettings.json](src/VaultSecretsTool/appsettings.json) and optional personalized `appsettings.Local.json`, 
-which can created out of the template [appsettings.Local.json.template](src/VaultSecretsTool/appsettings.Local.json.template).
+which can be created out of the template [appsettings.Local.json.template](src/VaultSecretsTool/appsettings.Local.json.template).
 
 Configurable custom options: 
 * used environment
